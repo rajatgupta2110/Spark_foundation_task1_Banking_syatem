@@ -1,2 +1,1 @@
-# Spark_foundation_task1_Banking_syatem
-This is basic banking system
+# GRIPAUG21_Task-1_Banking_System
